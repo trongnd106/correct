@@ -2,4 +2,4 @@
 
 ## Run
 
-python data_test.txt
+python backup.py
